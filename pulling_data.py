@@ -4,7 +4,7 @@ import os
 import json
 
 # --- CONFIG ---
-API_KEY = "9a6342f288c6a3057d5c93aa32b8ba27"
+API_KEY = "224c40ed37312905869cc5e0584b5738"
 BASE_URL = "http://api.nessieisreal.com/enterprise"
 ENDPOINTS = ["accounts", "customers", "merchants", "bills", "deposits",
              "loans", "purchases", "transfers", "withdrawals"]
