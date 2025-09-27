@@ -1,0 +1,257 @@
+{
+    "data": [
+      {
+        "_id": "56c66be5a73e492741506f2c",
+        "name": "Arlington 2",
+        "geocode": {
+          "lng": -77.1211338,
+          "lat": 38.8981779
+        },
+        "accessibility": true,
+        "hours": [
+          "24 hours a day, 7 days a week"
+        ],
+        "address": {
+          "state": "VA",
+          "zip": "22207",
+          "city": "Arlington",
+          "street_name": "Lee Highway",
+          "street_number": "4700"
+        },
+        "language_list": [
+          "Chinese",
+          "French",
+          "Spanish",
+          "Hindustani",
+          "English"
+        ],
+        "amount_left": 510406
+      },
+      {
+        "_id": "56c66be5a73e492741506f2b",
+        "name": "Arlington 1",
+        "geocode": {
+          "lng": -77.1211338,
+          "lat": 38.8981779
+        },
+        "accessibility": true,
+        "hours": [
+          "24 hours a day, 7 days a week"
+        ],
+        "address": {
+          "state": "VA",
+          "zip": "22207",
+          "city": "Arlington",
+          "street_name": "Lee Highway",
+          "street_number": "4700"
+        },
+        "language_list": [
+          "Spanish",
+          "Portuguese",
+          "English"
+        ],
+        "amount_left": 337830
+      },
+      {
+        "_id": "56c66be5a73e492741506f2e",
+        "name": "Lee Highway/North Arlington 3",
+        "geocode": {
+          "lng": -77.1333157,
+          "lat": 38.8960952
+        },
+        "accessibility": false,
+        "hours": [
+          "24 hours a day, 7 days a week"
+        ],
+        "address": {
+          "state": "VA",
+          "zip": "22207",
+          "city": "Arlington",
+          "street_name": "Lee Highway",
+          "street_number": "5222"
+        },
+        "language_list": [
+          "Hindustani",
+          "English"
+        ],
+        "amount_left": 13697
+      },
+      {
+        "_id": "56c66be5a73e492741506f2d",
+        "name": "Lee Highway/North Arlington 2",
+        "geocode": {
+          "lng": -77.1333157,
+          "lat": 38.8960952
+        },
+        "accessibility": true,
+        "hours": [
+          "24 hours a day, 7 days a week"
+        ],
+        "address": {
+          "state": "VA",
+          "zip": "22207",
+          "city": "Arlington",
+          "street_name": "Lee Highway",
+          "street_number": "5222"
+        },
+        "language_list": [
+          "Chinese",
+          "French",
+          "Spanish",
+          "Hindustani",
+          "Portuguese",
+          "English"
+        ],
+        "amount_left": 270091
+      },
+      {
+        "_id": "56c66be5a73e492741506f2f",
+        "name": "Lee Highway/North Arlington 4",
+        "geocode": {
+          "lng": -77.1333157,
+          "lat": 38.8960952
+        },
+        "accessibility": true,
+        "hours": [
+          "24 hours a day, 7 days a week"
+        ],
+        "address": {
+          "state": "VA",
+          "zip": "22207",
+          "city": "Arlington",
+          "street_name": "Lee Highway",
+          "street_number": "5222"
+        },
+        "language_list": [
+          "Portuguese",
+          "Korean",
+          "English"
+        ],
+        "amount_left": 801970
+      },
+      {
+        "_id": "56c66be5a73e492741506f31",
+        "name": "Ballston Commons Mall 1",
+        "geocode": {
+          "lng": -77.1102162,
+          "lat": 38.8788951
+        },
+        "accessibility": true,
+        "hours": [
+          "24 hours a day, 7 days a week"
+        ],
+        "address": {
+          "state": "VA",
+          "zip": "22203",
+          "city": "Arlington",
+          "street_name": "Wilson Boulevard",
+          "street_number": "4238"
+        },
+        "language_list": [
+          "English"
+        ],
+        "amount_left": 13984
+      },
+      {
+        "_id": "56c66be5a73e492741506f30",
+        "name": "WMATA - Ballston 1",
+        "geocode": {
+          "lng": -77.1113105,
+          "lat": 38.882163
+        },
+        "accessibility": true,
+        "hours": [
+          "24 hours a day, 7 days a week"
+        ],
+        "address": {
+          "state": "VA",
+          "zip": "22203",
+          "city": "Arlington",
+          "street_name": "Fairfax Drive",
+          "street_number": "4230"
+        },
+        "language_list": [
+          "French",
+          "Korean",
+          "Portuguese",
+          "Hindustani",
+          "English"
+        ],
+        "amount_left": 561583
+      },
+      {
+        "_id": "56c66be5a73e492741506f32",
+        "name": "Ballston Commons Mall 2",
+        "geocode": {
+          "lng": -77.1102162,
+          "lat": 38.8788951
+        },
+        "accessibility": false,
+        "hours": [
+          "24 hours a day, 7 days a week"
+        ],
+        "address": {
+          "state": "VA",
+          "zip": "22203",
+          "city": "Arlington",
+          "street_name": "Wilson Boulevard",
+          "street_number": "4238"
+        },
+        "language_list": [
+          "French",
+          "English"
+        ],
+        "amount_left": 818133
+      },
+      {
+        "_id": "56c66be5a73e492741506f33",
+        "name": "Ballston Commons Mall 4",
+        "geocode": {
+          "lng": -77.1102162,
+          "lat": 38.8788951
+        },
+        "accessibility": false,
+        "hours": [
+          "24 hours a day, 7 days a week"
+        ],
+        "address": {
+          "state": "VA",
+          "zip": "22203",
+          "city": "Arlington",
+          "street_name": "Wilson Boulevard",
+          "street_number": "4238"
+        },
+        "language_list": [
+          "English"
+        ],
+        "amount_left": 318232
+      },
+      {
+        "_id": "56c66be5a73e492741506f34",
+        "name": "Ballston Common Mall 1",
+        "geocode": {
+          "lng": -77.109526,
+          "lat": 38.879446
+        },
+        "accessibility": true,
+        "hours": [
+          "24 hours a day, 7 days a week"
+        ],
+        "address": {
+          "state": "VA",
+          "zip": "22203",
+          "city": "Arlington",
+          "street_name": "Wilson Boulevard",
+          "street_number": "4100"
+        },
+        "language_list": [
+          "English"
+        ],
+        "amount_left": 864330
+      }
+    ],
+    "paging": {
+      "previous": "/atms?key=224c40ed37312905869cc5e0584b5738&page=1",
+      "next": "/atms?key=224c40ed37312905869cc5e0584b5738&page=2"
+    }
+  }
